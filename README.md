@@ -12,3 +12,5 @@ https://github.com/7krich/run-buddy.git
 
 #Contribution
 Made with ❤️ by Kyle Richnafsky
+
+# Run Buddy Inc.
